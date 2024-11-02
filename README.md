@@ -9,8 +9,16 @@
   <a href="https://github.com/EmilyHuang111?tab=repositories&sort=stargazers">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-5A9BD6?style=for-the-badge&logoColor=white&logo=repo"/>
 
+## 📚 About Me
 
+```diff 
+👨‍💻 Name: Emily Huang
+📧 Email: emilyhuang912@gmail.com
+💻 Favorite Programming Language: Python
+🎾 Hobbies: Tennis
+🔭 Currently working on my personal projects
 
+```
 ## 🌟 Personal Projects
 
 <p align="center">
@@ -34,16 +42,6 @@
 
 
 
-## 📚 About Me
-
-```diff 
-👨‍💻 Name: Emily Huang
-📧 Email: emilyhuang912@gmail.com
-💻 Favorite Programming Language: Python
-🎾 Hobbies: Tennis
-🔭 Currently working on my personal projects
-
-```
 ## 🚀 My favorite tools
 ### 👨‍💻 Programming languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
