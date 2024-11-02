@@ -10,10 +10,6 @@
   <a href="https://github.com/EmilyHuang111?tab=repositories&sort=stargazers">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-5A9BD6?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
-</p>
-
-<h2 align="center" style="margin-top: 5px;">About Me</h2>
-
 
 
 ## 📚 About Me
