@@ -32,7 +32,7 @@
 </p>
 <p align="center">
   <img src="ezgif.com-animated-gif-maker (1).gif" alt="CompreQnA App Icon" width="100">
-</p>
+
 
 
 ## 📚 About Me
