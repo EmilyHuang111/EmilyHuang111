@@ -12,7 +12,6 @@
   </a>
 </p>
 
-
 ## 🌟 Personal Projects
 
 <p align="center">
