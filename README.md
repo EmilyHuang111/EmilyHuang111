@@ -13,7 +13,7 @@
 </p>
 
 
-## 💡 Personal Projects
+## 🌟 Personal Projects
 <p align="center"> <img src="https://your-image-hosting.com/path-to-your-uploaded-image.png" alt="FindMyBuses App Icon" width="100"> </p> <p align="center"> <strong>FindMyBuses</strong> is an app designed to help students easily find their buses, improving organization at school. Real time notifications and bus messages sent to students. </p> <p align="center"> <a href="https://apps.apple.com/us/app/findmybuses/id6648756305">FindMyBuses</a> </p>
 
 
