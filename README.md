@@ -26,7 +26,12 @@
   <img src="ezgif.com-animated-gif-maker.gif" alt="FindMyBuses App Icon" width="100">
 </p>
 
-
+<p align="center">
+  <strong>CompreQnA</strong> is an AI study app currently in development. 
+</p>
+<p align="center">
+  <a href="https://compreqna.com">CompreQnA</a>
+</p>
 
 ## 📚 About Me
 
