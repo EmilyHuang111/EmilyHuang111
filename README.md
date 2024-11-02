@@ -14,7 +14,7 @@
 
 
 FindMyBuses App
-<p align="center"> <img src="https://your-image-hosting.com/path-to-your-uploaded-image.png" alt="FindMyBuses App Icon" width="100"> </p> <p align="center"> <strong>FindMyBuses</strong> is an Apple app designed to help students and parents easily locate and track school buses. The app provides real-time updates on bus locations, estimated arrival times, and delay notifications, making it easier for everyone to plan their day. </p> <p align="center"> <a href="https://apps.apple.com/us/app/findmybuses/id6648756305">FindMyBuses</a> </p>
+<p align="center"> <img src="https://your-image-hosting.com/path-to-your-uploaded-image.png" alt="FindMyBuses App Icon" width="100"> </p> <p align="center"> <strong>FindMyBuses</strong> is an app designed to help students easily find their buses, improving organization at school. Real time notifications and updates sent to students relating to their bus.</p> <p align="center"> <a href="https://apps.apple.com/us/app/findmybuses/id6648756305">FindMyBuses</a> </p>
 
 
 ## 📚 About Me
