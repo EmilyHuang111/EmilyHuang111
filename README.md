@@ -12,3 +12,15 @@
   </a>
 </p>
 
+
+
+## 📚 About Me
+
+```diff 
+👨‍💻 Name: Emily Huang
+📧 Email: emilyhuang912@gmail.com
+💻 Favorite Programming Language: Python
+🎾 Hobbies: Tennis
+🔭 Currently working on my personal projects
+
+```
