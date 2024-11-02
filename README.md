@@ -40,10 +40,10 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
 
-### 📚 Frameworks and libraries
+### 📚 Frameworks
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
 
-### 🗄️ Databases and cloud hosting
+### 🗄️ Databases
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ### 🛠️ Software and tools
