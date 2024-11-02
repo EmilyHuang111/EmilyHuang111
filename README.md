@@ -14,7 +14,18 @@
 
 
 ## 🌟 Personal Projects
-<p align="center"> <img src="https://your-image-hosting.com/path-to-your-uploaded-image.png" alt="FindMyBuses App Icon" width="100"> </p> <p align="center"> <strong>FindMyBuses</strong> is an app designed to help students easily find their buses, improving organization at school. Real time notifications and bus messages sent to students. Available in the Apple app store and Google Play Store. </p> <p align="center"> <a href="https://apps.apple.com/us/app/findmybuses/id6648756305">FindMyBuses</a> </p>
+<p align="center">
+  <img src="https://github.com/YourUsername/YourRepository/raw/main/assets/FindMyBuses.png" alt="FindMyBuses App Icon" width="100">
+</p>
+<p align="center">
+  <strong>FindMyBuses</strong> is an app designed to help students easily find their buses, improving organization at school. Real-time notifications and bus messages are sent to students. Available in the Apple App Store and Google Play Store.
+</p>
+<p align="center">
+  <a href="https://apps.apple.com/us/app/findmybuses/id6648756305">
+    <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download on the App Store" width="150">
+  </a>
+</p>
+
 
 
 ## 📚 About Me
