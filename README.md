@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emily Huang
+👋 Hi, I’m Emily Huang
 
 
 
