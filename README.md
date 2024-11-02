@@ -16,20 +16,20 @@
 
 <p align="center">
   <strong>FindMyBuses</strong> is an app designed to help students easily find their buses, improving organization at school. Real-time notifications and bus messages sent to students. Available in the Apple App Store and Google Play Store.
-</p>
+
 <p align="center">
   <a href="https://apps.apple.com/us/app/findmybuses/id6648756305">FindMyBuses</a>
-</p>
+
 <p align="center">
   <img src="ezgif.com-animated-gif-maker.gif" alt="FindMyBuses App Icon" width="100">
 
 
 <p align="center">
   <strong>CompreQnA</strong> is an AI study app currently in development.
-</p>
+
 <p align="center">
   <a href="https://compreqna.com">CompreQnA</a>
-</p>
+
 <p align="center">
   <img src="ezgif.com-animated-gif-maker (1).gif" alt="CompreQnA App Icon" width="100">
 
