@@ -3,7 +3,6 @@
     <br>
     <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+Learning+New+Things&font=Fira%20Code&center=true&width=440&height=45&color=004080&vCenter=true&size=23">
-</p>
 </h1>
 
 <p align="center">
