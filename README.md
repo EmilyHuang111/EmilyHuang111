@@ -10,7 +10,7 @@
   <a href="https://github.com/EmilyHuang111?tab=repositories&sort=stargazers">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-5A9BD6?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
-</p>
+
 
 ## 🌟 Personal Projects
 
@@ -22,7 +22,7 @@
 </p>
 <p align="center">
   <img src="ezgif.com-animated-gif-maker.gif" alt="FindMyBuses App Icon" width="100">
-</p>
+
 
 <p align="center">
   <strong>CompreQnA</strong> is an AI study app currently in development.
