@@ -70,4 +70,18 @@
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 
 
+## 😴 The Boring Stuff
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=EmilyHuang111&show_icons=true&theme=tokyonight" /></p>
+    <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyHuang111&layout=compact&theme=blueberry" /></p>
+  <br/>
+    <p align="center"><img src="https://komarev.com/ghpvc/?username=EmilyHuang111&color=1588f3&style=for-the-badge" alt="Profile Views"></p>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+
+
 
