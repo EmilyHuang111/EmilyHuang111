@@ -77,8 +77,6 @@
     <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=EmilyHuang111&show_icons=true&theme=tokyonight" /></p>
     <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyHuang111&layout=compact&theme=blueberry" /></p>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
 
 
 
