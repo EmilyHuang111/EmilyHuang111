@@ -70,7 +70,6 @@
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 
 
-## 📊 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
