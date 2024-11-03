@@ -31,7 +31,7 @@
   <a href="https://apps.apple.com/us/app/findmybuses/id6648756305">FindMyBuses</a>
 
 <p align="center">
-  <img src="ezgif.com-animated-gif-maker.gif" alt="FindMyBuses App Icon" width="100">
+  <img src="FindMyBuses.gif" alt="FindMyBuses App Icon" width="100">
 
 
 <p align="center">
