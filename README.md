@@ -41,7 +41,7 @@
   <a href="https://compreqna.com">CompreQnA</a>
 
 <p align="center">
-  <img src="ezgif.com-animated-gif-maker (1).gif" alt="CompreQnA App Icon" width="100">
+  <img src="compreqna.gif" alt="CompreQnA App Icon" width="100">
 
 
 
