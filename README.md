@@ -37,8 +37,6 @@
 <p align="center">
   <strong>CompreQnA</strong> is an AI study app currently in development.
 
-<p align="center">
-  <a href="https://compreqna.com">CompreQnA</a>
 
 <p align="center">
   <img src="compreqna.gif" alt="CompreQnA App Icon" width="100">
